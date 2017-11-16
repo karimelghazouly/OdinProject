@@ -1,0 +1,15 @@
+current directory: /home/karim/workspace/blogger/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/bin/ruby2.3 -r ./siteconf20171116-2473-nms1sz.rb extconf.rb
+creating Makefile
+
+current directory: /home/karim/workspace/blogger/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/karim/workspace/blogger/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/karim/workspace/blogger/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20171116-2473-h2z5s/bindex
